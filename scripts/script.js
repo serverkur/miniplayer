@@ -10,8 +10,8 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Anlayamazsın",
+          artist: "Seksendört",
           cover: "https://raw.githubusercontent.com/serverkur/miniplayer/master/img/1.jpg",
           source: "https://raw.githubusercontent.com/serverkur/miniplayer/master/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -34,11 +34,11 @@ new Vue({
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/serverkur/miniplayer/master/img/4.jpg",
+          name: "Unutmak Öyle Kolay Mı Sandın",
+          artist: "Semicenk",
+          cover: "https://raw.githubusercontent.com/serverkur/miniplayer/master/img/4.png",
           source: "https://raw.githubusercontent.com/serverkur/miniplayer/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://www.youtube.com/watch?v=51Vn6pnLgBc",
           favorited: false
         },
         {
